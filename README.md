@@ -1,13 +1,14 @@
 # rvbbit
 
-Security researcher focused on low-level systems, offensive security, and detection engineering.
+Security researcher focused on malware analysis, Linux kernel internals, rootkits, offensive security, and threat detection.
 
 ## Focus
 
-- Linux kernel security and internals
-- Rootkit behavior, eBPF, and system observability
-- Offensive research paired with practical detection
-- Security tooling for isolated and resilient environments
+- Malware research, behavioral analysis, and reverse engineering
+- Linux kernel internals and low-level security
+- Rootkit techniques, stealth, persistence, and detection
+- Offensive security and adversary emulation
+- Defensive security: log analysis, threat hunting, and forensic artifact analysis
 
 ## Selected work
 
