@@ -1,13 +1,13 @@
 # rvbbit
 
-Security researcher focused on malware analysis, Linux kernel internals, rootkits, offensive security, and threat detection.
+Security researcher focused on malware analysis, Linux kernel internals, rootkits, penetration testing, and threat detection.
 
 ## Focus
 
 - Malware research, behavioral analysis, and reverse engineering
 - Linux kernel internals and low-level security
 - Rootkit techniques, stealth, persistence, and detection
-- Offensive security and adversary emulation
+- Offensive security, penetration testing, and adversary emulation
 - Defensive security: log analysis, threat hunting, and forensic artifact analysis
 
 ## Selected work
